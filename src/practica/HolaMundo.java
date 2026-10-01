@@ -9,6 +9,7 @@ public class HolaMundo {
 		System.out.println("Paso 3 Rama 1");
 		System.out.println("Paso 5; Rama discontinued");
 		System.out.println("Paso 8; Rama discontinued");
+		System.out.println("Paso 10; Rama discontinued");
 	}
 
 }
