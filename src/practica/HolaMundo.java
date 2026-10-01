@@ -7,6 +7,8 @@ public class HolaMundo {
 		System.out.println("Hola CMEPPS!");
 		System.out.println("Paso 2 Rama 1");
 		System.out.println("Paso 3 Rama 1");
+		System.out.println("Paso 6 Rama 2");
+		System.out.println("Paso 7 Rama 2");
 	}
 
 }
